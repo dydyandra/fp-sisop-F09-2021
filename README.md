@@ -1,4 +1,4 @@
-#fp-sisop-F09-2021
+## fp-sisop-F09-2021
 
 ### Anggota kelompok:
 Anggota | NRP
@@ -6,3 +6,6 @@ Anggota | NRP
 Muthia Qurrota Akyun | 05111940000019
 Ifanu Antoni | 05111940000064
 Dyandra Paramitha W. | 05111940000119
+
+Kendala: 
+- Masih kurang paham dengan socket-server, dan soal FP
